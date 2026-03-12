@@ -1,7 +1,6 @@
-VoiceKernel v0.1
-
 VoiceKernel is an Emscripten-backed audio processing module designed for low-latency microphone capture and chunked data accumulation. It provides a high-level JavaScript interface to handle complex Web Audio and WebAssembly interactions.
-Installation
+
+-- Installation --
 
 Ensure the following files are located in your project directory:
 
